@@ -262,7 +262,7 @@
 				DEVELOPMENT_TEAM = D36AC3V592;
 				INFOPLIST_FILE = estimoteStarter/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = makeschool.com.estimoteStarter;
+				PRODUCT_BUNDLE_IDENTIFIER = makeschool.estimoteStarter.com;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -275,7 +275,7 @@
 				DEVELOPMENT_TEAM = D36AC3V592;
 				INFOPLIST_FILE = estimoteStarter/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = makeschool.com.estimoteStarter;
+				PRODUCT_BUNDLE_IDENTIFIER = makeschool.estimoteStarter.com;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
